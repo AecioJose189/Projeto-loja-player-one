@@ -21,7 +21,7 @@ PyQt5==5.15.9<br>
 PyQt5_sip==12.12.2<br>
 (como está escrito em requirements)<br>
 este é o comando para instalar no terminal:<br>
-pip install -r requirements.txt<br>
+`pip install -r requirements.txt` <br>
 
 
-2- por fim, rodar o "run.py"
+2- por fim, rodar o `run.py`
