@@ -7,6 +7,12 @@
 A ideia deste projeto é criar uma loja de roupas em python, para a cadeira de Laboratório de programação 1. <br>
 Para isso, utilizamos a biblioteca PyQt5 para fazer uma UI bonitinha e **bem básica** .
 
+Algumas imagens do projeto: <br>
+
+![Imagem da tela inicial](./imagesreadme/1693242220054.png) <br>
+
+![Imagem dentro do sistema](./imagesreadme/1693242220049.png)
+
 ## Como Rodar?
 ### Abaixo está o passo a passo de como instalar as bibliotecas e rodar a loja de roupas.
 
